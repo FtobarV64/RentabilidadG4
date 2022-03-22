@@ -24,10 +24,3 @@
  end
 
  puts utilities.to_i
- #● 2.2 Crear el programa emprendedor2.rb para obtener el cálculo de las utilidades,
-#donde el usuario ingrese previamente los siguientes datos:
-#○ Precio.
-#○ Número de usuarios totales.
-#○ Número de usuarios premium (pagan el doble).
-#○ Número de usuarios gratuitos (no pagan).
-#○ Gastos
